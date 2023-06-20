@@ -1,0 +1,7 @@
+First Name,Last Name,Email,Username,Password,Patient/Admin
+John,Banana,jbanana@gmail.com,jbanana,abc123,Patient
+April,Peach,apeach@gmail.com,apeach,def456,Patient
+Steven,Bishop,sbishop@gmail.com,sbishop,ghi789,Patient
+Serena,Hanson,shanson@gmail.com,shanson,jkl010,Patient
+Cory,Evans,cevans@gmail.com,cevans,uvw000,Admin
+Tracey,Scott,tscott@gmail.com,tscott,xyz111,Admin
